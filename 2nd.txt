@@ -1,2 +1,1 @@
-this is a new file
-no this was basically the second file
+This was the second file here
